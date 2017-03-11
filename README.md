@@ -27,16 +27,16 @@ A curated list of awesome Rancher resources.
 ## Resources
 
 * [Installing Rancher Server](https://docs.rancher.com/rancher/installing-rancher/installing-server/)
-* [Upgrading Rancher Server](https://docs.rancher.com/rancher/upgrading/)
-* [Environments](https://docs.rancher.com/rancher/environments/)
-* [Hosts](https://docs.rancher.com/rancher/hosts/)
-* [Registries](https://docs.rancher.com/rancher/environments/registries/)
-* [Working with Cattle](http://docs.rancher.com/rancher/cattle/stacks/)
-* [Working with Kubernetes](http://docs.rancher.com/rancher/kubernetes/)
-* [Working with Mesos](http://docs.rancher.com/rancher/mesos/)
-* [Using the catalog](http://docs.rancher.com/rancher/catalog/)
-* [API Documentation](http://docs.rancher.com/rancher/api/v2-beta/)
-* [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-1.5)
+* [Upgrading Rancher Server](https://docs.rancher.com/rancher/v1.5/en/upgrading/)
+* [Environments](https://docs.rancher.com/rancher/v1.5/en/environments/)
+* [Hosts](http://docs.rancher.com/rancher/v1.5/en/hosts/)
+* [Registries](https://docs.rancher.com/rancher/v1.5/en/environments/registries/)
+* [Working with Cattle](http://docs.rancher.com/rancher/v1.5/en/cattle/stacks/)
+* [Working with Kubernetes](http://docs.rancher.com/rancher/v1.5/en/kubernetes/)
+* [Working with Mesos](http://docs.rancher.com/rancher/v1.5/en/mesos/)
+* [Using the catalog](http://docs.rancher.com/rancher/v1.5/en/catalog/)
+* [API Documentation](http://docs.rancher.com/rancher/v1.5/en/api/v2-beta/)
+* [Project Plan](https://github.com/rancher/rancher/v1.5/en/wiki/Rancher-1.5)
 
 ## Videos
 
