@@ -2,6 +2,8 @@
 
 A curated list of awesome Rancher resources.
 
+If you see a link that isn't a good fit, you can fix it by submitting a pull request to help improve the list. Likewise, if you'd like to add or fix something, click the [README.md](editREADME.md) file to edit and submit a pull request.  Thank you!
+
 ## What is Rancher?
 
 > Rancher is an open source software platform that enables organizations to run containers in production. With Rancher, organizations no longer have to build a container services platform from scratch using a distinct set of open source technologies. Rancher supplies the entire software stack needed to manage containers in production.
