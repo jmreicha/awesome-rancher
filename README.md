@@ -12,8 +12,9 @@ A curated list of awesome Rancher resources.
 * [Resources](#resources)
 * [Videos](#videos)
 * [Blog posts](#blog-posts)
-* [Tools](#rancher-tools)
+* [Tools](#tools)
   * [Community projects](#community-projects)
+    * [Terraform](#terraform)
 * [Twitter accounts to follow](#twitter-accounts-to-follow)
 * [Connect with Rancher](#connect-with-rancher)
 * [Contributing](#contributing)
@@ -37,6 +38,7 @@ A curated list of awesome Rancher resources.
 * [Using the catalog](http://docs.rancher.com/rancher/v1.5/en/catalog/)
 * [API Documentation](http://docs.rancher.com/rancher/v1.5/en/api/v2-beta/)
 * [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-Project-Plan)
+* [Rancher monitoring with Prometheus](https://github.com/infinityworksltd/Guide_Rancher_Monitoring)
 
 ## Videos
 
@@ -58,6 +60,8 @@ A curated list of awesome Rancher resources.
 * [Rancher blog](http://rancher.com/blog/)
 * [DEPLOYING RANCHER HA IN PRODUCTION WITH AWS, TERRAFORM, AND RANCHEROS](https://thisendout.com/2016/12/10/update-deploying-rancher-in-production-aws-terraform-rancheros/)
 * [Creating a highly available container orchestration cluster on AWS](https://www.tastycidr.net/rancher-creating-a-highly-available-container-orchestration-cluster-on-ec2/)
+* [Configure a Rancher HAProxy health check](https://thepracticalsysadmin.com/configure-a-rancher-haproxy-health-check/)
+* [Bootstrap servers to a Rancher environment](https://thepracticalsysadmin.com/bootstrap-servers-to-a-rancher-environment/)
 
 ## Tools
 
@@ -75,7 +79,17 @@ A curated list of awesome Rancher resources.
 * [Rancher reaper](https://github.com/ampedandwired/rancher-reaper) - A Service to automatically delete hosts from Rancher if they have been terminated in AWS
 * [Rancher alarms](https://github.com/ndelitski/rancher-alarms) - Send notifications when something goes wrong in rancher
 * [Rancher cron](https://github.com/SocialEngine/rancher-cron) - A service that can start containers on a defined schedule
+* [Rancher wrangler](https://github.com/bscott/rancher-wrangler) - Wrangler is a Central Web Interface to see detailed Information about multiple Rancher Management Servers
+* [Giddyup](https://github.com/cloudnautique/giddyup) - Giddyup is a tool to that helps get services started in a Rancher compose stack
+* [Cowpoke](https://github.com/LeanKit-Labs/cowpoke) - A service to handle configurable Rancher service upgrade patterns
+* [Gaucho](https://github.com/etlweather/gaucho) - A Python CLI tool for Rancher's API
+* [Rancher Let's Encrypt](https://github.com/janeczku/rancher-letsencrypt) - Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA
 
+#### Terraform
+
+* [Terraform Rancher HA](https://github.com/nextrevision/terraform-rancher-ha-example) - Terraform files for deploying a Rancher HA cluster in AWS
+* [Terraform AWS Rancher HA](https://github.com/chrisurwin/terraform-aws-rancher-ha) - Terraform module for standing up an AWS Rancher HA instance
+* [Terraform Rancher](https://github.com/cloudnautique/terraform-rancher) Templates for building and configuring Rancher management and compute stacks
 
 ## Twitter accounts to follow
 
