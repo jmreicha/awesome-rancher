@@ -79,7 +79,7 @@ A curated list of awesome Rancher resources.
 * [Rancher reaper](https://github.com/ampedandwired/rancher-reaper) - A Service to automatically delete hosts from Rancher if they have been terminated in AWS
 * [Rancher alarms](https://github.com/ndelitski/rancher-alarms) - Send notifications when something goes wrong in rancher
 * [Rancher cron](https://github.com/SocialEngine/rancher-cron) - A service that can start containers on a defined schedule
-* [Rancher wrangler](https://github.com/bscott/rancher-wrangler) - Wrangler is a Central Web Interface to see detailed Information about multiple Rancher Management Servers
+* [Rancher wrangler](https://github.com/bscott/rancher-wrangler) - Wrangler is a Web Interface to see detailed Information about Rancher Servers
 * [Giddyup](https://github.com/cloudnautique/giddyup) - Giddyup is a tool to that helps get services started in a Rancher compose stack
 * [Cowpoke](https://github.com/LeanKit-Labs/cowpoke) - A service to handle configurable Rancher service upgrade patterns
 * [Gaucho](https://github.com/etlweather/gaucho) - A Python CLI tool for Rancher's API
