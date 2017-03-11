@@ -84,6 +84,7 @@ A curated list of awesome Rancher resources.
 * [Cowpoke](https://github.com/LeanKit-Labs/cowpoke) - A service to handle configurable Rancher service upgrade patterns
 * [Gaucho](https://github.com/etlweather/gaucho) - A Python CLI tool for Rancher's API
 * [Rancher Let's Encrypt](https://github.com/janeczku/rancher-letsencrypt) - Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA
+* [Rancher Vagrant](https://github.com/nextrevision/rancher-vagrant) - Extensible and automated local Rancher environments using Vagrant
 
 #### Terraform
 
