@@ -51,7 +51,6 @@ A curated list of awesome Rancher resources.
 * [December 2016 Online Meetup](https://www.youtube.com/watch?v=2AE6Z2LXq-I) - Deep Dive and Demo of Rancher 1 2
 * [January 2017 Online Meetup](https://www.youtube.com/watch?v=EHeYJCPJgcU) - Getting Started with Windows Containers in Rancher
 * [February 2017 Online Meetup](https://www.youtube.com/watch?v=EjvzXC8qwWg&t=4349s) - More Tips and Tricks for Running Containers Like a Pro
-
 * [Monthly training videos](https://www.youtube.com/watch?v=FyiSQzD0Iak&list=PLfAoTEAPazb4fQQwOxY3uXsO_UBK3fEPG)
 
 ### Blog posts
