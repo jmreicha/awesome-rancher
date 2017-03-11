@@ -36,7 +36,7 @@ A curated list of awesome Rancher resources.
 * [Working with Mesos](http://docs.rancher.com/rancher/v1.5/en/mesos/)
 * [Using the catalog](http://docs.rancher.com/rancher/v1.5/en/catalog/)
 * [API Documentation](http://docs.rancher.com/rancher/v1.5/en/api/v2-beta/)
-* [Project Plan](https://github.com/rancher/rancher/v1.5/en/wiki/Rancher-1.5)
+* [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-1.5)
 
 ## Videos
 
