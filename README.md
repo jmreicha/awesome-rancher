@@ -77,7 +77,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ### Community projects
 
-* [Rancher client](https://github.com/aboutdotme/rancher-client) - A Rancher API client for containerized deployments and management.
+* [Rancher client](https://github.com/aboutdotme/rancher-client) - A Rancher API client for containerized deployments and management
 * [Rancher reaper](https://github.com/ampedandwired/rancher-reaper) - A Service to automatically delete hosts from Rancher if they have been terminated in AWS
 * [Rancher alarms](https://github.com/ndelitski/rancher-alarms) - Send notifications when something goes wrong in rancher
 * [Rancher cron](https://github.com/SocialEngine/rancher-cron) - A service that can start containers on a defined schedule
