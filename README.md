@@ -103,6 +103,12 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [@deniseschannon](https://twitter.com/deniseschannon)
 * [@Lemonjet](https://twitter.com/Lemonjet)
 * [@GuerillaNerd](https://twitter.com/GuerillaNerd)
+* [@leodotcloud](https://twitter.com/leodotcloud)
+* [@shengliang](https://twitter.com/shengliang)
+* [@utter_babbage](https://twitter.com/utter_babbage)
+* [@joshwget](https://twitter.com/joshwget)
+* [@SvenDowideit](https://twitter.com/SvenDowideit)
+* [@davegetzler](https://twitter.com/davegetzler)
 
 ## Connect with Rancher
 
