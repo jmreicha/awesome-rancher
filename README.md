@@ -95,7 +95,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Terraform Rancher HA](https://github.com/nextrevision/terraform-rancher-ha-example) - Terraform files for deploying a Rancher HA cluster in AWS
 * [Terraform AWS Rancher HA](https://github.com/chrisurwin/terraform-aws-rancher-ha) - Terraform module for standing up an AWS Rancher HA instance
 * [Terraform Rancher](https://github.com/cloudnautique/terraform-rancher) Templates for building and configuring Rancher management and compute stacks
-* [Terraform Rancher DigitalOcean](https://github.com/lunagt/rancher-terraform-digitalocean) - Terraform module for a rancher server on Digitalocean.
+* [Terraform Rancher DigitalOcean](https://github.com/lunagt/rancher-terraform-digitalocean) - Terraform module for a Rancher server on Digitalocean.
 
 #### Third party
 
