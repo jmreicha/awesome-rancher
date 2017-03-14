@@ -17,6 +17,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Tools](#tools)
   * [Community projects](#community-projects)
     * [Terraform](#terraform)
+  * [Third party](#third-party)
 * [Twitter accounts to follow](#twitter-accounts-to-follow)
 * [Connect with Rancher](#connect-with-rancher)
 * [Contributing](#contributing)
@@ -87,12 +88,17 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Gaucho](https://github.com/etlweather/gaucho) - A Python CLI tool for Rancher's API
 * [Rancher Let's Encrypt](https://github.com/janeczku/rancher-letsencrypt) - Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA
 * [Rancher Vagrant](https://github.com/nextrevision/rancher-vagrant) - Extensible and automated local Rancher environments using Vagrant
+* [Rancher Status Page](https://github.com/Demandbase/rancher-status-page) - Simple status page for Rancher stacks and services
 
 #### Terraform
 
 * [Terraform Rancher HA](https://github.com/nextrevision/terraform-rancher-ha-example) - Terraform files for deploying a Rancher HA cluster in AWS
 * [Terraform AWS Rancher HA](https://github.com/chrisurwin/terraform-aws-rancher-ha) - Terraform module for standing up an AWS Rancher HA instance
 * [Terraform Rancher](https://github.com/cloudnautique/terraform-rancher) Templates for building and configuring Rancher management and compute stacks
+
+### Third party
+
+* [SpotInst](https://spotinst.com) - Manage AWS and GCE Spot Instances Groups with Rancher Integration for automatic removal of infrastructure
 
 ## Twitter accounts to follow
 
