@@ -31,15 +31,15 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 ## Resources
 
 * [Installing Rancher Server](https://docs.rancher.com/rancher/installing-rancher/installing-server/)
-* [Upgrading Rancher Server](https://docs.rancher.com/rancher/v1.5/en/upgrading/)
+* [Upgrading Rancher Server](https://docs.rancher.com/rancher/latest/en/upgrading/)
 * [Environments](https://docs.rancher.com/rancher/v1.5/en/environments/)
 * [Hosts](http://docs.rancher.com/rancher/v1.5/en/hosts/)
 * [Registries](https://docs.rancher.com/rancher/v1.5/en/environments/registries/)
 * [Working with Cattle](http://docs.rancher.com/rancher/v1.5/en/cattle/stacks/)
 * [Working with Kubernetes](http://docs.rancher.com/rancher/v1.5/en/kubernetes/)
 * [Working with Mesos](http://docs.rancher.com/rancher/v1.5/en/mesos/)
-* [Using the catalog](http://docs.rancher.com/rancher/v1.5/en/catalog/)
-* [API Documentation](http://docs.rancher.com/rancher/v1.5/en/api/v2-beta/)
+* [Using the catalog](http://docs.rancher.com/rancher/latest/en/catalog/)
+* [API Documentation](http://docs.rancher.com/rancher/latest/en/api/)
 * [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-Project-Plan)
 * [Rancher monitoring with Prometheus](https://github.com/infinityworksltd/Guide_Rancher_Monitoring)
 
