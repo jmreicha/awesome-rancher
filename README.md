@@ -96,7 +96,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Terraform AWS Rancher HA](https://github.com/chrisurwin/terraform-aws-rancher-ha) - Terraform module for standing up an AWS Rancher HA instance
 * [Terraform Rancher](https://github.com/cloudnautique/terraform-rancher) Templates for building and configuring Rancher management and compute stacks
 
-### Third party
+#### Third party
 
 * [SpotInst](https://spotinst.com) - Manage AWS and GCE Spot Instances Groups with Rancher Integration for automatic removal of infrastructure
 
