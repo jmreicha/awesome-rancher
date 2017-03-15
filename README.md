@@ -65,7 +65,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Creating a highly available container orchestration cluster on AWS](https://www.tastycidr.net/rancher-creating-a-highly-available-container-orchestration-cluster-on-ec2/)
 * [Configure a Rancher HAProxy health check](https://thepracticalsysadmin.com/configure-a-rancher-haproxy-health-check/)
 * [Bootstrap servers to a Rancher environment](https://thepracticalsysadmin.com/bootstrap-servers-to-a-rancher-environment/)
-* [Container Clustering with Rancher Server (Part 5) – Automating the deployment of AWS infrastructure and Rancher with Terraform (https://skeltonthatcher.com/blog/container-clustering-rancher-server-part-5-automating-deployment-aws-infrastructure-rancher-terraform/)
+* [Container Clustering with Rancher Server (Part 5) – Automating the deployment of AWS infrastructure and Rancher with Terraform](https://skeltonthatcher.com/blog/container-clustering-rancher-server-part-5-automating-deployment-aws-infrastructure-rancher-terraform/)
 
 ## Tools
 
@@ -90,7 +90,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher Let's Encrypt](https://github.com/janeczku/rancher-letsencrypt) - Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA
 * [Rancher Vagrant](https://github.com/nextrevision/rancher-vagrant) - Extensible and automated local Rancher environments using Vagrant
 * [Rancher Status Page](https://github.com/Demandbase/rancher-status-page) - Simple status page for Rancher stacks and services
-* [Rancher server single node HA and multi-AZ Rancher hosts in AWS]https://github.com/SkeltonThatcher/aws-terraform-rancher-single-node-ha - Terraform scripts to deploy Rancher server single node HA and multi-AZ Rancher hosts in AWS
+* [Rancher server single node HA and multi-AZ Rancher hosts in AWS](https://github.com/SkeltonThatcher/aws-terraform-rancher-single-node-ha) - Terraform scripts to deploy Rancher server single node HA and multi-AZ Rancher hosts in AWS
 
 #### Terraform
 
