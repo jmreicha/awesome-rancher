@@ -65,11 +65,12 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Creating a highly available container orchestration cluster on AWS](https://www.tastycidr.net/rancher-creating-a-highly-available-container-orchestration-cluster-on-ec2/)
 * [Configure a Rancher HAProxy health check](https://thepracticalsysadmin.com/configure-a-rancher-haproxy-health-check/)
 * [Bootstrap servers to a Rancher environment](https://thepracticalsysadmin.com/bootstrap-servers-to-a-rancher-environment/)
+* [Container Clustering with Rancher Server (Part 5) – Automating the deployment of AWS infrastructure and Rancher with Terraform](https://skeltonthatcher.com/blog/container-clustering-rancher-server-part-5-automating-deployment-aws-infrastructure-rancher-terraform/)
 
 ## Tools
 
 * [Rancher](https://github.com/rancher/rancher)
-* [Rancher CLI](https://github.com/rancher/cli) - he Rancher Command Line Interface (CLI)is a unified tool to manage your Rancher server
+* [Rancher CLI](https://github.com/rancher/cli) - The Rancher Command Line Interface (CLI)is a unified tool to manage your Rancher server
 * [Rancher Compose](https://github.com/rancher/rancher-compose) - Docker compose compatible client to deploy to Rancher
 * [Rancher catalog](https://github.com/rancher/rancher-catalog) - The catalog provides templates created and maintained by Rancher
 * [Rancher community catalog](https://github.com/rancher/community-catalog) - The catalog provides templates created and maintained by the community
@@ -96,6 +97,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Terraform AWS Rancher HA](https://github.com/chrisurwin/terraform-aws-rancher-ha) - Terraform module for standing up an AWS Rancher HA instance
 * [Terraform Rancher](https://github.com/cloudnautique/terraform-rancher) - Templates for building and configuring Rancher management and compute stacks
 * [Terraform Rancher DigitalOcean](https://github.com/lunagt/rancher-terraform-digitalocean) - Terraform module for a Rancher server on Digitalocean.
+* [Rancher server single node HA and multi-AZ Rancher hosts in AWS](https://github.com/SkeltonThatcher/aws-terraform-rancher-single-node-ha) - Terraform scripts to deploy Rancher server single node HA and multi-AZ Rancher hosts in AWS
 
 #### Third party
 
