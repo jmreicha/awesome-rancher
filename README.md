@@ -90,7 +90,6 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher Let's Encrypt](https://github.com/janeczku/rancher-letsencrypt) - Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA
 * [Rancher Vagrant](https://github.com/nextrevision/rancher-vagrant) - Extensible and automated local Rancher environments using Vagrant
 * [Rancher Status Page](https://github.com/Demandbase/rancher-status-page) - Simple status page for Rancher stacks and services
-* [Rancher server single node HA and multi-AZ Rancher hosts in AWS](https://github.com/SkeltonThatcher/aws-terraform-rancher-single-node-ha) - Terraform scripts to deploy Rancher server single node HA and multi-AZ Rancher hosts in AWS
 
 #### Terraform
 
@@ -98,6 +97,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Terraform AWS Rancher HA](https://github.com/chrisurwin/terraform-aws-rancher-ha) - Terraform module for standing up an AWS Rancher HA instance
 * [Terraform Rancher](https://github.com/cloudnautique/terraform-rancher) - Templates for building and configuring Rancher management and compute stacks
 * [Terraform Rancher DigitalOcean](https://github.com/lunagt/rancher-terraform-digitalocean) - Terraform module for a Rancher server on Digitalocean.
+* [Rancher server single node HA and multi-AZ Rancher hosts in AWS](https://github.com/SkeltonThatcher/aws-terraform-rancher-single-node-ha) - Terraform scripts to deploy Rancher server single node HA and multi-AZ Rancher hosts in AWS
 
 #### Third party
 
