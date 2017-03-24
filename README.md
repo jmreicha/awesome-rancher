@@ -90,8 +90,9 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Gaucho](https://github.com/etlweather/gaucho) - A Python CLI tool for Rancher's API
 * [Rancher Let's Encrypt](https://github.com/janeczku/rancher-letsencrypt) - Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA
 * [Rancher Vagrant](https://github.com/nextrevision/rancher-vagrant) - Extensible and automated local Rancher environments using Vagrant
-* [Rancher Status Page](https://github.com/Demandbase/rancher-status-page) - Simple status page for Rancher stacks and services
-* [Rancher Firedrill](https://github.com/srflaxu40/rancher-firedrill) - Alarm on stopped containers
+* [Rancher status page](https://github.com/Demandbase/rancher-status-page) - Simple status page for Rancher stacks and services
+* [Rancher firedrill](https://github.com/srflaxu40/rancher-firedrill) - Alarm on stopped containers
+* [Rancher zsh completion](https://github.com/go/rancher-zsh-completion) - zsh completion for Rancher CLI
 
 #### Terraform
 
