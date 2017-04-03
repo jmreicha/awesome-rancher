@@ -56,7 +56,9 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [December 2016 Online Meetup](https://www.youtube.com/watch?v=2AE6Z2LXq-I) - Deep Dive and Demo of Rancher 1 2
 * [January 2017 Online Meetup](https://www.youtube.com/watch?v=EHeYJCPJgcU) - Getting Started with Windows Containers in Rancher
 * [February 2017 Online Meetup](https://www.youtube.com/watch?v=EjvzXC8qwWg&t=4349s) - More Tips and Tricks for Running Containers Like a Pro
+* [March 2017 Online Meetup](https://www.youtube.com/watch?v=_CJP7viMY-8) - Storage Infrastructure for Containers and Cloud Native Deployments
 * [Monthly training videos](https://www.youtube.com/watch?v=FyiSQzD0Iak&list=PLfAoTEAPazb4fQQwOxY3uXsO_UBK3fEPG)
+* [AXA Tech advanced engineering LAB](https://www.youtube.com/watch?v=JbXLtE8ZHsc&feature=youtu.be&app=desktop) - Rancher-Gitlab-Docker CI/CD Pipeline demo video
 
 ### Blog posts
 
@@ -93,6 +95,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher status page](https://github.com/Demandbase/rancher-status-page) - Simple status page for Rancher stacks and services
 * [Rancher firedrill](https://github.com/srflaxu40/rancher-firedrill) - Alarm on stopped containers
 * [Rancher zsh completion](https://github.com/go/rancher-zsh-completion) - zsh completion for Rancher CLI
+* [Rancher GitLab deployment tool](https://github.com/cdrx/rancher-gitlab-deploy) - Painless deployment of projects built with GitLab CI onto your Rancher infrastructure
 
 #### Terraform
 
