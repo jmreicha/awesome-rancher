@@ -106,6 +106,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Terraform Rancher](https://github.com/cloudnautique/terraform-rancher) - Templates for building and configuring Rancher management and compute stacks
 * [Terraform Rancher DigitalOcean](https://github.com/lunagt/rancher-terraform-digitalocean) - Terraform module for a Rancher server on Digitalocean.
 * [Rancher server single node HA and multi-AZ Rancher hosts in AWS](https://github.com/SkeltonThatcher/aws-terraform-rancher-single-node-ha) - Terraform scripts to deploy Rancher server single node HA and multi-AZ Rancher hosts in AWS
+* [Rancher HA Deployment](https://github.com/crielly/rancher-ha-aws) - A highly available rancher deployment using AWS
 
 #### Third party
 
