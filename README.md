@@ -68,6 +68,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Configure a Rancher HAProxy health check](https://thepracticalsysadmin.com/configure-a-rancher-haproxy-health-check/)
 * [Bootstrap servers to a Rancher environment](https://thepracticalsysadmin.com/bootstrap-servers-to-a-rancher-environment/)
 * [Container Clustering with Rancher Server (Part 5) – Automating the deployment of AWS infrastructure and Rancher with Terraform](https://skeltonthatcher.com/blog/container-clustering-rancher-server-part-5-automating-deployment-aws-infrastructure-rancher-terraform/)
+* [Docker orchestration with Kubernetes and Rancher](https://crondev.com/docker-orchestration-kubernetes-rancher/)
 
 ## Tools
 
@@ -96,6 +97,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher firedrill](https://github.com/srflaxu40/rancher-firedrill) - Alarm on stopped containers
 * [Rancher zsh completion](https://github.com/go/rancher-zsh-completion) - zsh completion for Rancher CLI
 * [Rancher GitLab deployment tool](https://github.com/cdrx/rancher-gitlab-deploy) - Painless deployment of projects built with GitLab CI onto your Rancher infrastructure
+* [Rancher SaltStack deployment](https://github.com/komljen/rancher-salt) - Salt states for Rancher container platform deployment
 
 #### Terraform
 
