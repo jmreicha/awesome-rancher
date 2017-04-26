@@ -99,6 +99,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher GitLab deployment tool](https://github.com/cdrx/rancher-gitlab-deploy) - Painless deployment of projects built with GitLab CI onto your Rancher infrastructure
 * [Rancher SaltStack deployment](https://github.com/komljen/rancher-salt) - Salt states for Rancher container platform deployment
 * [Rancher Prometheus](https://github.com/ecliptik/rancher-prometheus) - Simple Prometheus Stack Config for Rancher
+* [rancher logs collector](https://github.com/leodotcloud/rancher-logs-collector) - Rancher logs collector
 
 #### Terraform
 
@@ -128,6 +129,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [@joshwget](https://twitter.com/joshwget)
 * [@SvenDowideit](https://twitter.com/SvenDowideit)
 * [@davegetzler](https://twitter.com/davegetzler)
+* [@junocake](https://twitter.com/junocake)
 
 ## Connect with Rancher
 
