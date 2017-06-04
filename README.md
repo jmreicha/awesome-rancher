@@ -110,6 +110,10 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher server single node HA and multi-AZ Rancher hosts in AWS](https://github.com/SkeltonThatcher/aws-terraform-rancher-single-node-ha) - Terraform scripts to deploy Rancher server single node HA and multi-AZ Rancher hosts in AWS
 * [Rancher HA Deployment](https://github.com/crielly/rancher-ha-aws) - A highly available rancher deployment using AWS
 
+#### Chef
+
+* [RancherNg Cookbook](https://supermarket.chef.io/cookbooks/rancher-ng) - Chef cookbok with LWRP for deploy Rancher server and/or agent.
+
 #### Third party
 
 * [SpotInst](https://spotinst.com) - Manage AWS and GCE Spot Instances Groups with Rancher Integration for automatic removal of infrastructure
