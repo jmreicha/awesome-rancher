@@ -17,6 +17,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Tools](#tools)
   * [Community projects](#community-projects)
     * [Terraform](#terraform)
+    * [Chef](#chef)
   * [Third party](#third-party)
 * [Twitter accounts to follow](#twitter-accounts-to-follow)
 * [Connect with Rancher](#connect-with-rancher)
@@ -101,6 +102,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher SaltStack deployment](https://github.com/komljen/rancher-salt) - Salt states for Rancher container platform deployment
 * [Rancher Prometheus](https://github.com/ecliptik/rancher-prometheus) - Simple Prometheus Stack Config for Rancher
 * [Rancher logs collector](https://github.com/leodotcloud/rancher-logs-collector) - Rancher logs collector
+* [Roundup](https://github.com/crystal-construct/roundup) - Query rancher-metadata by label, and return the first, or all of the values
 
 #### Terraform
 
