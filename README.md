@@ -103,6 +103,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher Prometheus](https://github.com/ecliptik/rancher-prometheus) - Simple Prometheus Stack Config for Rancher
 * [Rancher logs collector](https://github.com/leodotcloud/rancher-logs-collector) - Rancher logs collector
 * [Roundup](https://github.com/crystal-construct/roundup) - Query rancher-metadata by label, and return the first, or all of the values
+* [Rancher Events](https://github.com/ibrokethecloud/rancher-events) - Extract Docker events from Rancher
 
 #### Terraform
 
