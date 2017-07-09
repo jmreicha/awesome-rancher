@@ -70,7 +70,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Bootstrap servers to a Rancher environment](https://thepracticalsysadmin.com/bootstrap-servers-to-a-rancher-environment/)
 * [Container Clustering with Rancher Server (Part 5) – Automating the deployment of AWS infrastructure and Rancher with Terraform](https://skeltonthatcher.com/blog/container-clustering-rancher-server-part-5-automating-deployment-aws-infrastructure-rancher-terraform/)
 * [Docker orchestration with Kubernetes and Rancher](https://crondev.com/docker-orchestration-kubernetes-rancher/)
-* [Setting up Symphony continuous deployment using Rancher](https://lekode.com/2017/06/06/setting-up-symfony-continuous-deployment-using-rancher/)
+* [Setting up Symfony continuous deployment using Rancher](https://lekode.com/2017/06/06/setting-up-symfony-continuous-deployment-using-rancher/)
 
 ## Tools
 
