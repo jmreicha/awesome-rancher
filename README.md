@@ -104,6 +104,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher logs collector](https://github.com/leodotcloud/rancher-logs-collector) - Rancher logs collector
 * [Roundup](https://github.com/crystal-construct/roundup) - Query rancher-metadata by label, and return the first, or all of the values
 * [Rancher Events](https://github.com/ibrokethecloud/rancher-events) - Extract Docker events from Rancher
+* [Jenkins Rancher Plugin](https://github.com/jenkinsci/rancher-plugin) - Enables Jenkins to deploy or upgrade Rancher stack service instance
 
 #### Terraform
 
