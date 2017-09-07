@@ -71,6 +71,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Container Clustering with Rancher Server (Part 5) – Automating the deployment of AWS infrastructure and Rancher with Terraform](https://skeltonthatcher.com/blog/container-clustering-rancher-server-part-5-automating-deployment-aws-infrastructure-rancher-terraform/)
 * [Docker orchestration with Kubernetes and Rancher](https://crondev.com/docker-orchestration-kubernetes-rancher/)
 * [Setting up Symfony continuous deployment using Rancher](https://lekode.com/2017/06/06/setting-up-symfony-continuous-deployment-using-rancher/)
+* [OpenFaaS on Rancher](https://medium.com/cloud-academy-inc/openfaas-on-rancher-684650cc078e)
 
 ## Tools
 
@@ -106,6 +107,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Roundup](https://github.com/crystal-construct/roundup) - Query rancher-metadata by label, and return the first, or all of the values
 * [Rancher Events](https://github.com/ibrokethecloud/rancher-events) - Extract Docker events from Rancher
 * [Jenkins Rancher Plugin](https://github.com/jenkinsci/rancher-plugin) - Enables Jenkins to deploy or upgrade Rancher stack service instance
+* [Faas Rancher](https://github.com/kenfdev/faas-rancher) - Enable Rancher as a backend for Functions as a Service (OpenFaaS)
 
 #### Terraform
 
