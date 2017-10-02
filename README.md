@@ -12,6 +12,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 * [Getting started](#getting-started)
 * [Resources](#resources)
+* [Rancher 2.0 and Kubernetes](rancher-2.0-and-kubernetes)
 * [Videos](#videos)
 * [Blog posts](#blog-posts)
 * [Tools](#tools)
@@ -43,6 +44,14 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [API Documentation](http://docs.rancher.com/rancher/latest/en/api/)
 * [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-Project-Plan)
 * [Rancher monitoring with Prometheus](https://github.com/infinityworksltd/Guide_Rancher_Monitoring)
+
+## Rancher 2.0 and Kubernetes
+
+* [Rancher 2.0](http://rancher.com/rancher2-0/)
+* [Getting started guide](http://rancher.com/docs/rancher/v2.0/en/quick-start-guide/)
+* [Rancher 2.0 FAQ](http://rancher.com/docs/rancher/v2.0/en/faq/)
+* [Rancher 2.0 video demo](https://www.youtube.com/watch?v=Ma6FsuWI2Nc&feature=youtu.be)
+* [Rancher 2.0 technical details](https://cdn2.hubspot.net/hubfs/468859/Whitepapers/Rancher%202.0%20Technical%20Architecture%20-%20Sept%202017.pdf)
 
 ## Videos
 
