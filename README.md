@@ -107,7 +107,8 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Giddyup](https://github.com/cloudnautique/giddyup) - Giddyup is a tool to that helps get services started in a Rancher compose stack
 * [Cowpoke](https://github.com/LeanKit-Labs/cowpoke) - A service to handle configurable Rancher service upgrade patterns
 * [Gaucho](https://github.com/etlweather/gaucho) - A Python CLI tool for Rancher's API
-* [Rancher Let's Encrypt](https://github.com/janeczku/rancher-letsencrypt) - Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA
+* [Rancher Let's Encrypt](https://github.com/janeczku/rancher-letsencrypt) - Rancher service that obtains and manages free SSL certificates from the Let's Encrypt CA using DNS & webroot verification
+* [Rancher Let's Encrypt](https://github.com/tozny/rancher-lets-encrypt) - Automatically create and manage certificates in Rancher using Let's Encrypt webroot verification via a minimal service
 * [Rancher Vagrant](https://github.com/nextrevision/rancher-vagrant) - Extensible and automated local Rancher environments using Vagrant
 * [Vagrant Rancher](https://github.com/SkeltonThatcher/vagrant-rancher) - Vagrant files to create a Rancher server and host environment for local development
 * [Rancher status page](https://github.com/Demandbase/rancher-status-page) - Simple status page for Rancher stacks and services
