@@ -12,7 +12,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 * [Getting started](#getting-started)
 * [Resources](#resources)
-* [Rancher 2.0 and Kubernetes](rancher-20-and-kubernetes)
+* [Rancher 2.0 and Kubernetes](#rancher-20-and-kubernetes)
 * [Videos](#videos)
 * [Blog posts](#blog-posts)
 * [Tools](#tools)
