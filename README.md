@@ -59,8 +59,8 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ### Community projects
 
- * [Logspout Rancher Ledger](https://github.com/myENA/rancher-herder) - A logspout plugin for Rancher v2.0
- * [Rancher service registrator for Consul](https://github.com/myENA/logspout-rancher-ledger) - Rancher service registration for consul 
+ * [Logspout Rancher Ledger](https://github.com/myENA/logspout-rancher-ledger) - A logspout plugin for Rancher v2.0
+ * [Rancher service registrator for Consul](https://github.com/myENA/rancher-herder) - Rancher service registration for consul 
 
 ## Videos
 
