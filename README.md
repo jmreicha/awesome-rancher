@@ -57,6 +57,11 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
  * [Kicking the tires on rancher 2.0](https://vadosware.io/post/kicking-the-tires-on-rancher-2.0/)
 
+### Community projects
+
+ * [Logspout Rancher Ledger](https://github.com/myENA/rancher-herder) - A logspout plugin for Rancher v2.0
+ * [Rancher service registrator for Consul](https://github.com/myENA/logspout-rancher-ledger) - Rancher service registration for consul 
+
 ## Videos
 
 * [March 2016 Meetup](https://www.youtube.com/watch?v=hwhxXwT6zlw) - Delivering Containers-as- a-Service with Rancher 1.0
