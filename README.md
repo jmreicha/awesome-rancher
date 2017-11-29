@@ -56,6 +56,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 ### Blog posts
 
  * [Kicking the tires on rancher 2.0](https://vadosware.io/post/kicking-the-tires-on-rancher-2.0/)
+ * [Test Rancher 2.0 using Minikube](https://thepracticalsysadmin.com/test-rancher-2-0-using-minikube/)
 
 ### Community projects
 
