@@ -63,6 +63,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Logspout Rancher Ledger](https://github.com/myENA/logspout-rancher-ledger) - A logspout plugin for Rancher v2.0
  * [Rancher service registrator for Consul](https://github.com/myENA/rancher-herder) - Rancher service registration for consul
  * [RKE Vagrant](https://github.com/flaccid/rke-vagrant) - vagrant up RKE (Rancher Kubernetes Engine)
+ * [Local Rancher Vagrant](https://github.com/rancher/vagrant/tree/rke) - Vagrant file to stand up a Local Rancher install with 3 nodes
 
 ## Videos
 
