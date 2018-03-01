@@ -52,6 +52,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher 2.0 FAQ](http://rancher.com/docs/rancher/v2.0/en/faq/)
 * [Rancher 2.0 video demo](https://www.youtube.com/watch?v=Ma6FsuWI2Nc&feature=youtu.be)
 * [Rancher 2.0 technical details](https://cdn2.hubspot.net/hubfs/468859/Whitepapers/Rancher%202.0%20Technical%20Architecture%20-%20Sept%202017.pdf)
+* [Rancher 2.0 roadmap](https://github.com/rancher/rancher/wiki/Rancher-2.0)
 
 ### Blog posts
 
