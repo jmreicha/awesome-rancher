@@ -132,6 +132,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher Events](https://github.com/ibrokethecloud/rancher-events) - Extract Docker events from Rancher
 * [Jenkins Rancher Plugin](https://github.com/jenkinsci/rancher-plugin) - Enables Jenkins to deploy or upgrade Rancher stack service instance
 * [Faas Rancher](https://github.com/kenfdev/faas-rancher) - Enable Rancher as a backend for Functions as a Service (OpenFaaS)
+* [Cowcheck](https://github.com/cloudnautique/cowcheck) - A microservice for checking the health of a Rancher node
 
 #### Terraform
 
