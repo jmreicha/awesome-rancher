@@ -133,6 +133,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Jenkins Rancher Plugin](https://github.com/jenkinsci/rancher-plugin) - Enables Jenkins to deploy or upgrade Rancher stack service instance
 * [Faas Rancher](https://github.com/kenfdev/faas-rancher) - Enable Rancher as a backend for Functions as a Service (OpenFaaS)
 * [Cowcheck](https://github.com/cloudnautique/cowcheck) - A microservice for checking the health of a Rancher node
+* [Rancher autobackup](https://github.com/oscarsix/rancher-autobackup) - Do backups from rancher stacks into a git repository by using rancher api
 
 #### Terraform
 
