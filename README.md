@@ -58,6 +58,8 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
  * [Kicking the tires on rancher 2.0](https://vadosware.io/post/kicking-the-tires-on-rancher-2.0/)
  * [Test Rancher 2.0 using Minikube](https://thepracticalsysadmin.com/test-rancher-2-0-using-minikube/)
+ * [Managing Kubernetes Workloads with Rancher 2.0](https://rancher.com/managing-kubernetes-workloads-with-rancher-2-0/)
+ * [SSL/TLS options for Rancher 2.0](https://medium.com/@superseb/ssl-tls-options-for-rancher-2-0-dca483a7070d)
 
 ### Community projects
 
