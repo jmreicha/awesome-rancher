@@ -60,6 +60,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Test Rancher 2.0 using Minikube](https://thepracticalsysadmin.com/test-rancher-2-0-using-minikube/)
  * [Managing Kubernetes Workloads with Rancher 2.0](https://rancher.com/managing-kubernetes-workloads-with-rancher-2-0/)
  * [SSL/TLS options for Rancher 2.0](https://medium.com/@superseb/ssl-tls-options-for-rancher-2-0-dca483a7070d)
+ * [Understanding Authentication & Authorization in Rancher 2.0](https://rancher.com/blog/2018/2018-05-04-authentication-authorization-rancher2/)
 
 ### Community projects
 
