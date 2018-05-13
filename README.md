@@ -1,6 +1,8 @@
-# awesome-rancher [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-rancher [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
 
-A curated list of awesome Rancher resources.
+[<img src="https://rancher.com/img/farm-k8s.svg">](https://rancher.com/img/farm-k8s.svg)
+
+A curated list of awesome Rancher resources inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 If you see a link that isn't a good fit, you can fix it by submitting a pull request to help improve the list. Likewise, if you'd like to add or fix something, click the [README.md](README.md) file to edit and submit a pull request.  Thank you!
 
@@ -8,7 +10,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 > Rancher is an open source software platform that enables organizations to run containers in production. With Rancher, organizations no longer have to build a container services platform from scratch using a distinct set of open source technologies. Rancher supplies the entire software stack needed to manage containers in production.
 
-# Menu
+# Contents
 
 * [Getting started](#getting-started)
 * [Resources](#resources)
@@ -26,8 +28,9 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Getting started
 
-* [Rancher OS docs](http://docs.rancher.com/os/)
-* [Rancher docs](http://docs.rancher.com/rancher)
+* [Rancher OS docs](https://rancher.com/docs/os/v1.x/en/)
+* [Rancher 1.x docs](https://rancher.com/docs/rancher/v1.6/en/)
+* [Rancher 2.x docs](https://rancher.com/docs/rancher/v2.x/en/)
 * [Try Rancher](https://try.rancher.com)
 
 ## Resources
