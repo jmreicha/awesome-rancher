@@ -68,6 +68,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Rancher service registrator for Consul](https://github.com/myENA/rancher-herder) - Rancher service registration for consul
  * [RKE Vagrant](https://github.com/flaccid/rke-vagrant) - vagrant up RKE (Rancher Kubernetes Engine)
  * [Local Rancher Vagrant](https://github.com/rancher/vagrant/tree/rke) - Vagrant file to stand up a Local Rancher install with 3 nodes
+ * [Terraform RKE](https://github.com/yamamoto-febc/terraform-provider-rke) - Terraform provider plugin for deploying kubernetes clusters with RKE
 
 ## Videos
 
