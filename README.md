@@ -64,6 +64,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Managing Kubernetes Workloads with Rancher 2.0](https://rancher.com/managing-kubernetes-workloads-with-rancher-2-0/)
  * [SSL/TLS options for Rancher 2.0](https://medium.com/@superseb/ssl-tls-options-for-rancher-2-0-dca483a7070d)
  * [Understanding Authentication & Authorization in Rancher 2.0](https://rancher.com/blog/2018/2018-05-04-authentication-authorization-rancher2/)
+ * [How to run Rancher 2.0 on your desktop](https://rancher.com/blog/2018/2018-05-18-how-to-run-rancher-2-0-on-your-desktop/)
 
 ### Community projects
 
@@ -72,6 +73,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [RKE Vagrant](https://github.com/flaccid/rke-vagrant) - vagrant up RKE (Rancher Kubernetes Engine)
  * [Local Rancher Vagrant](https://github.com/rancher/vagrant/tree/rke) - Vagrant file to stand up a Local Rancher install with 3 nodes
  * [Terraform RKE](https://github.com/yamamoto-febc/terraform-provider-rke) - Terraform provider plugin for deploying kubernetes clusters with RKE
+ * [Rancher 2.0 Helm Chart](https://github.com/jgreat/helm-rancher-server) - Helm catalog for Rancher 2.0
 
 ## Videos
 
