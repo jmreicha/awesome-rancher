@@ -14,14 +14,17 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 * [Getting started](#getting-started)
 * [Resources](#resources)
-* [Rancher 2.0 and Kubernetes](#rancher-20-and-kubernetes)
-* [Videos](#videos)
-* [Blog posts](#blog-posts)
-* [Tools](#tools)
+* [Rancher 2.0](#rancher-20)
+  * [Blog posts](#blog-posts)
   * [Community projects](#community-projects)
+  * [How-tos](#how-to)
+* [Rancher 1.0](#rancher-10)
+  * [Blog posts](#blog-posts-10)
+  * [Tools](#tools-10)
+  * [Community projects](#community-projects-10)
     * [Terraform](#terraform)
     * [Chef](#chef)
-  * [Third party](#third-party)
+    * [Third party](#third-party)
 * [Twitter accounts to follow](#twitter-accounts-to-follow)
 * [Connect with Rancher](#connect-with-rancher)
 * [Contributing](#contributing)
@@ -48,7 +51,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Project Plan](https://github.com/rancher/rancher/wiki/Rancher-Project-Plan)
 * [Rancher monitoring with Prometheus](https://github.com/infinityworksltd/Guide_Rancher_Monitoring)
 
-## Rancher 2.0 and Kubernetes
+## Rancher 2.0
 
 * [Rancher 2.0](http://rancher.com/rancher2-0/)
 * [Getting started guide](http://rancher.com/docs/rancher/v2.0/en/quick-start-guide/)
@@ -65,6 +68,9 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [SSL/TLS options for Rancher 2.0](https://medium.com/@superseb/ssl-tls-options-for-rancher-2-0-dca483a7070d)
  * [Understanding Authentication & Authorization in Rancher 2.0](https://rancher.com/blog/2018/2018-05-04-authentication-authorization-rancher2/)
  * [How to run Rancher 2.0 on your desktop](https://rancher.com/blog/2018/2018-05-18-how-to-run-rancher-2-0-on-your-desktop/)
+ * [Recover Rancher Kubernetes cluster from a Backup](https://rancher.com/blog/2018/recover-rancher-kubernetes-cluster-from-backup/)
+ * [Load Balancing on Kubernetes with Rancher](https://rancher.com/blog/2018/load-balancing-user-apps-with-rancher/)
+ * [Installing Rancher 2 HA Cluster with Let’s Encrypt](https://medium.com/@facktoreal/installing-rancher-2-ha-with-lets-encrypt-ca3e09bf19c1)
 
 ### Community projects
 
@@ -75,24 +81,13 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Terraform RKE](https://github.com/yamamoto-febc/terraform-provider-rke) - Terraform provider plugin for deploying kubernetes clusters with RKE
  * [Rancher 2.0 Helm Chart](https://github.com/jgreat/helm-rancher-server) - Helm catalog for Rancher 2.0
 
-## Videos
+### How to
 
-* [March 2016 Meetup](https://www.youtube.com/watch?v=hwhxXwT6zlw) - Delivering Containers-as- a-Service with Rancher 1.0
-* [April 2016 Meetup](https://www.youtube.com/watch?v=ZovLwCvb2Is) - Tips, Tricks Tools to Running Containers like a Pro
-* [May 2016 Online Meetup](https://www.youtube.com/watch?v=sS3gO5h88M4) - Running Docker and Rancher Locally on Dev Machines
-* [June 2016 Online Meetup](https://www.youtube.com/watch?v=P9wtpJD88Os) - Introducing Apache Mesos Environments in Rancher
-* [July 2016 Online Meetup](https://www.youtube.com/watch?v=6vtY_4vNvpE) - Pipeline Automation with the New Rancher CLI
-* [August 2016 Online Meetup](https://www.youtube.com/watch?v=ppY9cqTvBVE) - Managing HA Kubernetes Clusters
-* [September 2016 Online Meetup](https://www.youtube.com/watch?v=GiqOO8N8Ooo) - NextGen Container Storage and Networking
-* [October 2016 Online Meetup](https://www.youtube.com/watch?v=XiC6Dy38HnA) - The Great Container Monitoring Bake Off
-* [December 2016 Online Meetup](https://www.youtube.com/watch?v=2AE6Z2LXq-I) - Deep Dive and Demo of Rancher 1 2
-* [January 2017 Online Meetup](https://www.youtube.com/watch?v=EHeYJCPJgcU) - Getting Started with Windows Containers in Rancher
-* [February 2017 Online Meetup](https://www.youtube.com/watch?v=EjvzXC8qwWg&t=4349s) - More Tips and Tricks for Running Containers Like a Pro
-* [March 2017 Online Meetup](https://www.youtube.com/watch?v=_CJP7viMY-8) - Storage Infrastructure for Containers and Cloud Native Deployments
-* [Monthly training videos](https://www.youtube.com/watch?v=FyiSQzD0Iak&list=PLfAoTEAPazb4fQQwOxY3uXsO_UBK3fEPG)
-* [AXA Tech advanced engineering LAB](https://www.youtube.com/watch?v=JbXLtE8ZHsc&feature=youtu.be&app=desktop) - Rancher-Gitlab-Docker CI/CD Pipeline demo video
+ * [Setup Metrics Server on an existing Kubernetes Cluster Hosted in Rancher](https://github.com/JasonvanBrackel/metrics-server-on-rancher-2.0.2)
 
-### Blog posts
+## Rancher 1.0
+
+### Blog posts 1.0
 
 * [Rancher blog](http://rancher.com/blog/)
 * [DEPLOYING RANCHER HA IN PRODUCTION WITH AWS, TERRAFORM, AND RANCHEROS](https://thisendout.com/2016/12/10/update-deploying-rancher-in-production-aws-terraform-rancheros/)
@@ -104,7 +99,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Setting up Symfony continuous deployment using Rancher](https://lekode.com/2017/06/06/setting-up-symfony-continuous-deployment-using-rancher/)
 * [OpenFaaS on Rancher](https://medium.com/cloud-academy-inc/openfaas-on-rancher-684650cc078e)
 
-## Tools
+### Tools 1.0
 
 * [Rancher](https://github.com/rancher/rancher)
 * [Rancher CLI](https://github.com/rancher/cli) - The Rancher Command Line Interface (CLI)is a unified tool to manage your Rancher server
@@ -114,7 +109,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Convoy](https://github.com/rancher/convoy) - A Docker volume plugin, managing persistent container volumes
 * [Cattle](https://github.com/rancher/cattle) - Cattle is the orchestration engine that powers Rancher
 
-### Community projects
+### Community projects 1.0
 
 * [Rancher client](https://github.com/aboutdotme/rancher-client) - A Rancher API client for containerized deployments and management
 * [Rancher reaper](https://github.com/ampedandwired/rancher-reaper) - A Service to automatically delete hosts from Rancher if they have been terminated in AWS
