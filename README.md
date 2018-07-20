@@ -71,6 +71,8 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Recover Rancher Kubernetes cluster from a Backup](https://rancher.com/blog/2018/recover-rancher-kubernetes-cluster-from-backup/)
  * [Load Balancing on Kubernetes with Rancher](https://rancher.com/blog/2018/load-balancing-user-apps-with-rancher/)
  * [Installing Rancher 2 HA Cluster with Let’s Encrypt](https://medium.com/@facktoreal/installing-rancher-2-ha-with-lets-encrypt-ca3e09bf19c1)
+ * [Cluster and Workload Alerts in Rancher 2.0](https://rancher.com/blog/2018/cluster-workload-alerts/)
+ * [CRDs and Custom Controllers in Rancher 2.0](https://rancher.com/blog/2018/rancher-management-plane-architecture/)
 
 ### Community projects
 
@@ -80,10 +82,12 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Local Rancher Vagrant](https://github.com/rancher/vagrant/tree/rke) - Vagrant file to stand up a Local Rancher install with 3 nodes
  * [Terraform RKE](https://github.com/yamamoto-febc/terraform-provider-rke) - Terraform provider plugin for deploying kubernetes clusters with RKE
  * [Rancher 2.0 Helm Chart](https://github.com/jgreat/helm-rancher-server) - Helm catalog for Rancher 2.0
+ * [Check Rancher 2](https://github.com/Napsty/check_rancher2)- Monitoring plugin to check Docker environments in Rancher 2.x
 
 ### How to
 
  * [Setup Metrics Server on an existing Kubernetes Cluster Hosted in Rancher](https://github.com/JasonvanBrackel/metrics-server-on-rancher-2.0.2)
+ * [Build and run Rancher and RKE on ARM](https://gist.github.com/ags131/7bdde11c932ef7a54f44c6decbfd88b8)
 
 ## Rancher 1.0
 
