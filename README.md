@@ -73,6 +73,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Installing Rancher 2 HA Cluster with Let’s Encrypt](https://medium.com/@facktoreal/installing-rancher-2-ha-with-lets-encrypt-ca3e09bf19c1)
  * [Cluster and Workload Alerts in Rancher 2.0](https://rancher.com/blog/2018/cluster-workload-alerts/)
  * [CRDs and Custom Controllers in Rancher 2.0](https://rancher.com/blog/2018/rancher-management-plane-architecture/)
+ * [Let's unbox Rancher 2.0 (slide deck)](https://www.slideshare.net/linecorp/lets-unbox-rancher-20-v200)
 
 ### Community projects
 
