@@ -74,6 +74,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Cluster and Workload Alerts in Rancher 2.0](https://rancher.com/blog/2018/cluster-workload-alerts/)
  * [CRDs and Custom Controllers in Rancher 2.0](https://rancher.com/blog/2018/rancher-management-plane-architecture/)
  * [Let's unbox Rancher 2.0 (slide deck)](https://www.slideshare.net/linecorp/lets-unbox-rancher-20-v200)
+ * [Deploying Istio on a Kubernetes Cluster using Rancher 2.0](https://rancher.com/blog/2018/deploying-istio/)
 
 ### Community projects
 
