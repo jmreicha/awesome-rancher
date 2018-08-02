@@ -75,6 +75,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [CRDs and Custom Controllers in Rancher 2.0](https://rancher.com/blog/2018/rancher-management-plane-architecture/)
  * [Let's unbox Rancher 2.0 (slide deck)](https://www.slideshare.net/linecorp/lets-unbox-rancher-20-v200)
  * [Deploying Istio on a Kubernetes Cluster using Rancher 2.0](https://rancher.com/blog/2018/deploying-istio/)
+ * [Talking Up Kubernetes with Rancher (podcast)](https://thenewstack.io/talking-up-kubernetes-with-rancher)
 
 ### Community projects
 
