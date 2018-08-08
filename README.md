@@ -76,6 +76,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Let's unbox Rancher 2.0 (slide deck)](https://www.slideshare.net/linecorp/lets-unbox-rancher-20-v200)
  * [Deploying Istio on a Kubernetes Cluster using Rancher 2.0](https://rancher.com/blog/2018/deploying-istio/)
  * [Talking Up Kubernetes with Rancher (podcast)](https://thenewstack.io/talking-up-kubernetes-with-rancher)
+ * [Building a CI/CD Pipeline with Kubernetes using Auto Devops, Rancher, and Gitlab](https://rancher.com/blog/2018/2018-08-07-cicd-pipeline-k8s-autodevops-rancher-and-gitlab/)
 
 ### Community projects
 
