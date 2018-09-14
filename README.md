@@ -77,6 +77,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Deploying Istio on a Kubernetes Cluster using Rancher 2.0](https://rancher.com/blog/2018/deploying-istio/)
  * [Talking Up Kubernetes with Rancher (podcast)](https://thenewstack.io/talking-up-kubernetes-with-rancher)
  * [Building a CI/CD Pipeline with Kubernetes using Auto Devops, Rancher, and Gitlab](https://rancher.com/blog/2018/2018-08-07-cicd-pipeline-k8s-autodevops-rancher-and-gitlab/)
+ * [Using Okta (and other SAML IdPs) with Rancher 2.0](https://mattslifebytes.com/2018/08/15/using-okta-and-other-saml-idps-with-rancher-2-0/)
 
 ### Community projects
 
