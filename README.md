@@ -89,7 +89,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Terraform RKE](https://github.com/yamamoto-febc/terraform-provider-rke) - Terraform provider plugin for deploying kubernetes clusters with RKE
  * [Rancher 2.0 Helm Chart](https://github.com/jgreat/helm-rancher-server) - Helm catalog for Rancher 2.0
  * [Check Rancher 2](https://github.com/Napsty/check_rancher2)- Monitoring plugin to check Docker environments in Rancher 2.x
- * [https://github.com/rancherpi/rancher-arm64](https://github.com/rancherpi/rancher-arm64) - Repo to build rancher on arm64 platform
+ * [rancher-arm64](https://github.com/rancherpi/rancher-arm64) - Repo to build rancher on arm64 platform
 
 ### How to
 
