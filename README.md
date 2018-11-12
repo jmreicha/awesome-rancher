@@ -62,6 +62,10 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [Rancher 2.0 Helm Chart](https://github.com/rancher/server-chart)
 * [Rancher 2.0 catalog](https://github.com/rancher/charts)
 
+### Cloud Drivers
+
+* [Hetzner Cloud UI Driver](https://mxschmitt.github.io/ui-driver-hetzner/)
+
 ### Blog posts
 
  * [Kicking the tires on rancher 2.0](https://vadosware.io/post/kicking-the-tires-on-rancher-2.0/)
