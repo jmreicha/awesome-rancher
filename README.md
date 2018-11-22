@@ -85,6 +85,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Building a CI/CD Pipeline with Kubernetes using Auto Devops, Rancher, and Gitlab](https://rancher.com/blog/2018/2018-08-07-cicd-pipeline-k8s-autodevops-rancher-and-gitlab/)
  * [Using Okta (and other SAML IdPs) with Rancher 2.0](https://mattslifebytes.com/2018/08/15/using-okta-and-other-saml-idps-with-rancher-2-0/)
  * [Adding custom nodes to your Kubernetes cluster in Rancher 2.0](https://medium.com/@superseb/adding-custom-nodes-to-your-kubernetes-cluster-in-rancher-2-0-tech-preview-2-89cf4f55808a)
+ * [Rancher - push to deploy workflow with Keel](https://webhookrelay.com/blog/2018/11/12/rancher-push-to-deploy-workflow/)
 
 ### Community projects
 
