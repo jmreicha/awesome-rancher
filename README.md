@@ -86,6 +86,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Using Okta (and other SAML IdPs) with Rancher 2.0](https://mattslifebytes.com/2018/08/15/using-okta-and-other-saml-idps-with-rancher-2-0/)
  * [Adding custom nodes to your Kubernetes cluster in Rancher 2.0](https://medium.com/@superseb/adding-custom-nodes-to-your-kubernetes-cluster-in-rancher-2-0-tech-preview-2-89cf4f55808a)
  * [Rancher - push to deploy workflow with Keel](https://webhookrelay.com/blog/2018/11/12/rancher-push-to-deploy-workflow/)
+ * [How To Set Up Multi-Node Deployments With Rancher 2.1, Kubernetes, and Docker Machine on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-node-deployments-with-rancher-2-1-kubernetes-and-docker-machine-on-ubuntu-18-04)
 
 ### Community projects
 
