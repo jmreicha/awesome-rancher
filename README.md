@@ -88,6 +88,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Rancher - push to deploy workflow with Keel](https://webhookrelay.com/blog/2018/11/12/rancher-push-to-deploy-workflow/)
  * [How To Set Up Multi-Node Deployments With Rancher 2.1, Kubernetes, and Docker Machine on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-node-deployments-with-rancher-2-1-kubernetes-and-docker-machine-on-ubuntu-18-04)
  * [Manage Kubernetes locally with RKE DIND](https://the.binbashtheory.com/rke-dind/)
+ * [Introducing k3s: The Lightweight Kubernetes Distribution Built for the Edge](https://rancher.com/blog/2019/2019-02-26-introducing-k3s-the-lightweight-kubernetes-distribution-built-for-the-edge/)
 
 ### Community projects
 
@@ -99,6 +100,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Rancher 2.0 Helm Chart](https://github.com/jgreat/helm-rancher-server) - Helm catalog for Rancher 2.0
  * [Check Rancher 2](https://github.com/Napsty/check_rancher2)- Monitoring plugin to check Docker environments in Rancher 2.x
  * [rancher-arm64](https://github.com/rancherpi/rancher-arm64) - Repo to build rancher on arm64 platform
+ * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
 
 ### How to
 
