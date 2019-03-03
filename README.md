@@ -89,6 +89,8 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [How To Set Up Multi-Node Deployments With Rancher 2.1, Kubernetes, and Docker Machine on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-node-deployments-with-rancher-2-1-kubernetes-and-docker-machine-on-ubuntu-18-04)
  * [Manage Kubernetes locally with RKE DIND](https://the.binbashtheory.com/rke-dind/)
  * [Introducing k3s: The Lightweight Kubernetes Distribution Built for the Edge](https://rancher.com/blog/2019/2019-02-26-introducing-k3s-the-lightweight-kubernetes-distribution-built-for-the-edge/)
+ * [HA Harbor on Azure with Rancher](http://makspostument.com/2019/02/ha-harbor-on-azure-with-rancher)
+ * [Life on the Edge: A First Look at Rancher’s Lightweight Kubernetes Distro K3s](https://medium.com/parkbee-tech/life-on-the-edge-a-first-look-at-ranchers-lightweight-kubernetes-distro-k3s-15a3aab1f0fb)
 
 ### Community projects
 
