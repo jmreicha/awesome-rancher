@@ -103,6 +103,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Check Rancher 2](https://github.com/Napsty/check_rancher2)- Monitoring plugin to check Docker environments in Rancher 2.x
  * [rancher-arm64](https://github.com/rancherpi/rancher-arm64) - Repo to build rancher on arm64 platform
  * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
+ * [Terraform - Rancher High Availability Installation](https://github.com/anthonyhumphreys/tf-rancher-ha-gcloud) - Terraform for setting up a Highly Available Rancher installation on Google Cloud
 
 ### How to
 
