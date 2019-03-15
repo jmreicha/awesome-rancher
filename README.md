@@ -92,6 +92,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [HA Harbor on Azure with Rancher](http://makspostument.com/2019/02/ha-harbor-on-azure-with-rancher)
  * [Life on the Edge: A First Look at Rancher’s Lightweight Kubernetes Distro K3s](https://medium.com/parkbee-tech/life-on-the-edge-a-first-look-at-ranchers-lightweight-kubernetes-distro-k3s-15a3aab1f0fb)
  * [Pod rescheduling after a node failure with RKE and Kubernetes](https://medium.com/01001101/pod-rescheduling-after-a-node-failure-with-rke-and-kubernetes-ed11cf3dbeb4)
+ * [Deploy Rancher on Azure for Kubernetes Management](http://www.buchatech.com/2019/03/deploy-rancher-on-azure-for-kubernetes-management)
 
 ### Community projects
 
