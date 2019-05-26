@@ -95,6 +95,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [Deploy Rancher on Azure for Kubernetes Management](http://www.buchatech.com/2019/03/deploy-rancher-on-azure-for-kubernetes-management)
  * [AKS Deployment Automation with Terraform and Multi-AKS Cluster Management with Rancher, AAD Integration and more](https://blog.kubernauts.io/aks-deployment-automation-with-terraform-and-multi-aks-cluster-management-with-rancher-6da9865ad52b)
  * [Managing Amazon EKS Clusters with Rancher](https://aws.amazon.com/blogs/opensource/managing-eks-clusters-rancher/)
+ * [Introducing the Rancher 2 Terraform Provider](https://rancher.com/blog/2019/rancher-2-terraform-provider/)
 
 ### Community projects
 
@@ -108,6 +109,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
  * [rancher-arm64](https://github.com/rancherpi/rancher-arm64) - Repo to build rancher on arm64 platform
  * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. 5 less than k8s.
  * [Terraform - Rancher High Availability Installation](https://github.com/anthonyhumphreys/tf-rancher-ha-gcloud) - Terraform for setting up a Highly Available Rancher installation on Google Cloud
+ * [Terraform Rancher provider](https://github.com/terraform-providers/terraform-provider-rancher2) - Terraform Rancher2 provider
 
 ### How to
 
@@ -201,6 +203,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [@SvenDowideit](https://twitter.com/SvenDowideit)
 * [@davegetzler](https://twitter.com/davegetzler)
 * [@junocake](https://twitter.com/junocake)
+* [@JasonvanBrackel](https://twitter.com/JasonvanBrackel)
 
 ## Connect with Rancher
 
@@ -211,6 +214,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 * [IRC](http://webchat.freenode.net/?channels=rancher)
 * [Youtube](https://www.youtube.com/channel/UCh5Xtp82q8wjijP8npkVTBA)
 * [Online training](https://attendee.gotowebinar.com/rt/2905734731496917249)
+* [The RancherCast](https://www.youtube.com/channel/UCTfoEBv6XaI1nEfWDewj5vQ)
 
 ## Contributing
 
